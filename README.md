@@ -59,7 +59,8 @@ This project presents an IoT-based system for detecting and locating underground
 ---
 
 ## 📷 Project Demo
-![Prototype](images/prototype.jpg)
+![Prototype](![Blynk](https://github.com/user-attachments/assets/94a7d7ad-da51-4279-8781-a6689fd5fcce)
+)
 
 ---
 
